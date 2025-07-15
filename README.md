@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrakharParihar29
+- 👋 Hi, I’m @PrakharParihar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ..
 - 📫 gmail: pariharprakhar5@gmail.com
